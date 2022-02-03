@@ -24,10 +24,21 @@
     <Compile Include="TunniPlan.py" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="ai.png" />
     <Content Include="aimult.png" />
+    <Content Include="ajal.png" />
+    <Content Include="bass.png" />
+    <Content Include="eesti.png" />
+    <Content Include="eesti2.png" />
+    <Content Include="englis.png" />
+    <Content Include="englis2.png" />
+    <Content Include="fizra.png" />
+    <Content Include="iskus.png" />
     <Content Include="logo_4.png" />
+    <Content Include="matem.png" />
+    <Content Include="oper.png" />
     <Content Include="ProgP.png" />
+    <Content Include="russ.png" />
+    <Content Include="suhtlem.png" />
     <Content Include="Tunnid_kirjeldused.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
